@@ -287,7 +287,7 @@ Begin VB.Form frmLoginVista
       End
       Begin VB.Label Label4 
          Alignment       =   2  'Center
-         Caption         =   "(for assistance call UITS on 98354-55022)"
+         Caption         =   "(for assistance call UITS on +91-99801-98263)"
          BeginProperty Font 
             Name            =   "Bookman Old Style"
             Size            =   8.25
